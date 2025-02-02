@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 What's Inside My Tote Bag In 2025?
 ======
 ![H](/images/H.png)
