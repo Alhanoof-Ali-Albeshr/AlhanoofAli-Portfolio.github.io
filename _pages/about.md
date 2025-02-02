@@ -13,7 +13,7 @@ What's Inside My Tote Bag In 2025?
 
 I tried to order the items from most important to least important (the left side is more important, and the right side is not            important). However, I soon realized that almost more than a half of the things in my bag are there "just in case" - thus they are rarely put into use. 
 
-![Mybag.png](/images/Mybag.png)
+![Mybag.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/Mybag.png)
 
 Here is what is inside my bag: 
 
