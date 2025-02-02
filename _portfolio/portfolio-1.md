@@ -1,20 +1,8 @@
 ---
 title: "What's Inside My Tote Bag In 2025?"
-excerpt: "I tried to order the items from most important to least important (the left side is more important, and the right side is not            important). N signifies items I need while I signifies items I characterize as "just in case" items." 
-          "Here is the list of things inside my bag: 
-          - (N)-- My Phone & Phone case 
-          - (N)-- My computer ( I really wish someone could invent something smaller with the same functionalities but smaller and                 lighter in weight) 
-          - (N)-- My car keys
-          - (N)-- My phone c-cable 
-          - (I) --My laptop charger 
-          - (I)-- A small notebook 
-          - (I)-- A pencil case containing pens, pencils, sharpies, highlighters, pencil sharpener, and a stapler.
-          - (I)-- Lipstick 
-          - (I)-- A bottle of water
-          - (I)--Folder with a small stack of white paper (sometimes my printed class readings). 
-          - (I)-- My cardholder contains my driving license, my NYUAD ID, my NYUAD FAD card, a travel credit card, and my main credit              card.
-          - (I)-- Perfume
-          - (I)--Sanitizer
+excerpt: "I tried to order the items from most important to least important (the left side is more important, and the right side is not            important). However, I soon realized that almost more than a half of the things in my bag are there "just in case" - thus they are rarely put into use. 
+*(Items I use/need): Phone & Phone case, my car keys, my phone c-cable, and my computer (I wish someone could invent something smaller, lighter in weight and with the same functionalities).
+*(Just in case items): Laptop charger, small notebook, sanitizer, Lipstick, Panadol cold&flu, vitamin D pills, bottle of water, perfume, pencil case (containing pens, pencils, sharpies, highlighters, pencil sharpener, and a stapler), folder with a small stack of white paper, cardholder (containing driving license, NYUAD ID, NYUAD FAB card, travel credit card, and main credit card).
           1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
