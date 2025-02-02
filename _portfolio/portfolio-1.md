@@ -1,10 +1,10 @@
 ---
 title: "What's Inside My Tote Bag In 2025?"
-#excerpt: ![H](/H.png)
+#excerpt: ![H](/images/H.png)
 collection: portfolio
 ---
 
-![H](/H.png)
+![H](/images/H.png)
 
 I tried to order the items from most important to least important (the left side is more important, and the right side is not            important). However, I soon realized that almost more than a half of the things in my bag are there "just in case" - thus they are rarely put into use. 
 
