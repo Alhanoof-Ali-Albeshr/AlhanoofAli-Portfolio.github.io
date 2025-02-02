@@ -1,7 +1,7 @@
 ---
 title: "What's Inside My Tote Bag In 2025?"
 excerpt: "Image of bag)
-Image: ![h](/images/H.png "H")
+![h](/images/H.png "H")
 collection: portfolio
 ---
 
