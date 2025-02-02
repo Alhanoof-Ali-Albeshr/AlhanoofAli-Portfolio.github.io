@@ -1,6 +1,6 @@
 ---
 title: "What's Inside My Tote Bag In 2025?"
-excerpt: ![H](/images/H.png)
+#excerpt: ![H](/images/H.png)
 collection: portfolio
 ---
 
