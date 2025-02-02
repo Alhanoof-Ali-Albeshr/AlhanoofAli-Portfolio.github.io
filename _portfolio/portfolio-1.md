@@ -2,7 +2,6 @@
 title: "What's Inside My Tote Bag In 2025?"
 excerpt: "I tried to order the items from most important to least important (the left side is more important, and the right side is not            important). 
           N signifies items I need while I signifies items I characterize as "just in case" items. 
-
           Here is the list of things inside my bag: 
           - (N)-- My Phone & Phone case 
           - (N)-- My computer ( I really wish someone could invent something smaller with the same functionalities but smaller and                 lighter in weight) 
