@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
+
 What's Inside My Tote Bag In 2025?
 ======
 
