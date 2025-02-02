@@ -1,6 +1,6 @@
 ---
 title: "What's Inside My Tote Bag In 2025?"
-excerpt: "1<br/><img src='/images/Mybag.png'>"
+excerpt: ![Mybag.png](Mybag.png)
 collection: portfolio
 ---
 
