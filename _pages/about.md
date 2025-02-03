@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my portfolio!💗👋🏼"
+title: #"Welcome to my portfolio!💗👋🏼"
 author_profile: true
 redirect_from: 
   - /about/
