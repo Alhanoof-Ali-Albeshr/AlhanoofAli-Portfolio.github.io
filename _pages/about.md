@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![retry.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/retry.png)
+![1retry.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/1retry.png)
 
-======
+
 What's Inside My Tote Bag In 2025?
 ======
 
