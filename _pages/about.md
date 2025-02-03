@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: ![1retry.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/1retry.png)
+title:
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+![1retry.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/1retry.png)
+
 
 What's Inside My Tote Bag In 2025?
 ======
