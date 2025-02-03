@@ -8,7 +8,6 @@ redirect_from:
 ---
 ![1retry.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/1retry.png)
 
-
 What's Inside My Tote Bag In 2025?
 ======
 
@@ -36,3 +35,5 @@ Here is what is inside my bag:
 - Pencil case (containing pens, pencils, sharpies, highlighters, pencil sharpener, and a stapler)
 - Folder with a small stack of white paper
 - Cardholder (containing driving license, NYUAD ID, NYUAD FAB card, travel credit card, and main credit card).
+
+                                                                                                     Posted on 29/01/2025
