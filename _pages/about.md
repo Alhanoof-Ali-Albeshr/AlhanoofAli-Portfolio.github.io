@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: #"Welcome to my portfolio!💗👋🏼"
+title: ![1retry.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/1retry.png)
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-![1retry.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/1retry.png)
-
 
 What's Inside My Tote Bag In 2025?
 ======
