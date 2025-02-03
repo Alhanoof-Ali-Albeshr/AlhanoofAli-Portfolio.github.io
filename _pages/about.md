@@ -36,4 +36,4 @@ Here is what is inside my bag:
 - Folder with a small stack of white paper
 - Cardholder (containing driving license, NYUAD ID, NYUAD FAB card, travel credit card, and main credit card).
 
-                                                                                                     Posted on 29/01/2025
+ Posted on 29/01/2025
