@@ -37,3 +37,19 @@ Here is what is inside my bag:
 - Cardholder (containing driving license, NYUAD ID, NYUAD FAB card, travel credit card, and main credit card).
 
  Posted on 29/01/2025
+
+
+Summary and Review of Episode 9 Season 1 of the BBC "Connections"
+======
+![Countdown.pdf](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/Countdown.pdf)
+
+
+
+
+
+
+
+
+
+
+
