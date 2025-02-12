@@ -10,6 +10,7 @@ redirect_from:
 
 What's Inside My Tote Bag In 2025?
 ======
+Posted on 29/01/2025
 
 I tried to order the items from most important to least important (the left side is more important, and the right side is not            important). However, I soon realized that almost more than a half of the things in my bag are there "just in case" - thus they are rarely put into use. 
 
@@ -36,11 +37,10 @@ Here is what is inside my bag:
 - Folder with a small stack of white paper
 - Cardholder (containing driving license, NYUAD ID, NYUAD FAB card, travel credit card, and main credit card).
 
- Posted on 29/01/2025
-
-
 Summary and Review of Episode 9 Season 1 of the BBC "Connections"
 ======
+Posted on the 5/02/2025
+
 ![c4.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/c4.png)
 
 ![c2.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/c2.png)
