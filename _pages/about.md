@@ -53,7 +53,8 @@ Posted on 10/02/2025
 
 ![1Mask.jpg](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/1Mask.jpg)
 
-![33Mask.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/33Mask.png)
+![1SC.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/1SC.png)
+
 
 Breif summary and commentary on the podcast: 
 
