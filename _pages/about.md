@@ -51,7 +51,17 @@ Summary on Pessimist Archive's Podcat on Masks
 ======
 Posted on 10/02/2025
 
+![1Mask.jpg](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/1Mask.jpg)
 
+![33Mask.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/33Mask.png)
+
+Breif summary and commentary on the podcast: 
+
+Rather than discussing the history of masks, the Podcast delved into human psychology, more specifically into when and why people are more likely to comply in one instance rather than another. The Podcast begins by discussing the mandate of masks during 1918 and discusses the reason people from Sanfrinsico complied (which was to stay safe from the Spanish flu and because it was seen as a patriotic duty). This mirrors recent events such as COVID-19 and how many complied out of fear of the virus and out of compliance with government regulations. However, the Podcast mentioned that towards the end of 1918, San Fran Sisco lifted the mandate, so people thought the Spanish flu was over. But, to their surprise, another wave hit, and the government re-mandated the mask. Interestingly, many people did not comply with the mandate this time, and the "Anti-Mask League" was created. People were meeting and protesting because they did not want to wear masks because they felt they were ineffective and unsafe (e.g., many wore them to cover their faces and commit crimes) or did not want to wear them. 
+
+But why? Why were masks accepted the first time but not the second time? 
+
+The Podcast actually attempts to tackle this question and mentions "Reactance" (when people think their autonomy is taken away, as an attempt to take it back, they refuse to comply). was why. The Podcast mentioned two ways to solve this issue: to give people a choice or highlight social norms. To give an example of choice-giving, COVID-19 vaccines were not mandated in the UAE. As in, the government did not force anyone to get vaccinated. They gave people a choice: either to get vaccinated or not be able to access malls, shops, or any closed public area. This way, although it might not seem like it, people still had the choice to get vaccinated, which made them more likely to comply. Moreover, to give an example about social norms, one can do this by stating that everyone around them is doing something. For example, if you tell a household that the whole neighborhood is wearing masks, they will be likelier to wear them because they would want to fit in and not be criticized or seen as different from the people in their neighborhood. So, the key point that the Podcast is making is that if you want people to do something, you need to explore human psychology to do it - rather than merely mandating or forcing them to do it because forcing them will only work for so long. 
 
 
 
