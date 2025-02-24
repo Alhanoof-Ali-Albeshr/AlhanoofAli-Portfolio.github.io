@@ -64,5 +64,14 @@ But why? Why were masks accepted the first time but not the second time?
 
 The Podcast actually attempts to tackle this question and mentions "Reactance" (when people think their autonomy is taken away, as an attempt to take it back, they refuse to comply). was why. The Podcast mentioned two ways to solve this issue: to give people a choice or highlight social norms. To give an example of choice-giving, COVID-19 vaccines were not mandated in the UAE. As in, the government did not force anyone to get vaccinated. They gave people a choice: either to get vaccinated or not be able to access malls, shops, or any closed public area. This way, although it might not seem like it, people still had the choice to get vaccinated, which made them more likely to comply. Moreover, to give an example about social norms, one can do this by stating that everyone around them is doing something. For example, if you tell a household that the whole neighborhood is wearing masks, they will be likelier to wear them because they would want to fit in and not be criticized or seen as different from the people in their neighborhood. So, the key point that the Podcast is making is that if you want people to do something, you need to explore human psychology to do it - rather than merely mandating or forcing them to do it because forcing them will only work for so long. 
 
+The Golden Age of Ancient Egypt
+======
+![11.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/11.png)
+
+![12.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/12.png)
+
+![13.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/13.png)
+
+![14.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/14.png)
 
 
