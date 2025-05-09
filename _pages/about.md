@@ -74,6 +74,39 @@ The Golden Age of Ancient Egypt
 
 ![14.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/14.png)
 
+My Concept Project: Connection 
+======
+What my I hoped my project would surround is this idea of connections between innovations in the past and innovations now, and how one thing led to another. These connections not always are clear or make sense, yet they happened. What inspired me was the tv BBC tv show Connections. And so, my proejcts aimed to depict the uncertainty and chaotic process of inventions and how they led and connect to one another.
+
+Before showing my projects here is a breif run down of my process: 
+
+- Started exploring playing cards their history.
+- Then I landed on lenticular playing cards. At this point, I wanted to do something in relation to connections but didn't really know what to do.   
+- I then moved on from lenticulars and began thinking of creating cards of survivability highlighting the connections in the past and how we adapted technology across time. This is sort of like a card deck that would save history in case it got erased in the future.  
+- Then I moved back to cards and thinking of ways to fold them to depict the different concetions via folding them sort of like oragami.
+- Then I circled back to lenticular cards and landed on my last idea which is to create a mini puzzle out of them. Essentially, there would be 12 squares in the cards, each square representing an innovation and its consequence. You would have to cut these squares and rearrange them finding the connection between the innovations. I was also inspired by the zootrope and wated to mount these squares to make them sort of like a moving movie and so I created a card where the users could attach the tiny squares. After mounting htem on it, they would have to move the circular card as if it was a CD, and then they could see the images move.
+
+Here are the images (before prinitng) of my project: 
+
+Puzzle cards: 
+
+
+
+
+
+
+Card where they have to attach the puzzles: 
+
+
+
+
+
+
+
+
+
+
+
 Massimo Vignelli
 ======
 ![M1.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/M1.png)
