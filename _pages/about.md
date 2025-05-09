@@ -89,12 +89,12 @@ Before showing my projects here is a breif run down of my process:
 Here are the images (before prinitng) of my project: 
 
 Puzzle cards: 
-![l1.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/l1.png)
+![L1.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/L1.png)
 
-![l2.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/l2.png)
+![L2.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/L2.png)
 
 Card where they have to attach the puzzles: 
-![l3.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/l3.png)
+![L3.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/L3.png)
 
 
 Massimo Vignelli
