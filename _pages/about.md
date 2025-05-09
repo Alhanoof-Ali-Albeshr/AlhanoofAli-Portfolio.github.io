@@ -86,9 +86,10 @@ Before showing my projects here is a breif run down of my process:
 - Then I moved back to cards and thinking of ways to fold them to depict the different concetions via folding them sort of like oragami.
 - Then I circled back to lenticular cards and landed on my last idea which is to create a mini puzzle out of them. Essentially, there would be 12 squares in the cards, each square representing an innovation and its consequence. You would have to cut these squares and rearrange them finding the connection between the innovations. I was also inspired by the zootrope and wated to mount these squares to make them sort of like a moving movie and so I created a card where the users could attach the tiny squares. After mounting htem on it, they would have to move the circular card as if it was a CD, and then they could see the images move.
 
-Here are the images (before prinitng) of my project: 
+Here are the images (before printing) of my project: 
 
 Puzzle cards: 
+
 ![L1.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/L1.png)
 
 ![L2.png](https://alhanoof-ali-albeshr.github.io/AlhanoofAli-Portfolio.github.io//images/L2.png)
